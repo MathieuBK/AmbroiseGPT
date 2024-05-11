@@ -1,0 +1,25 @@
+/* Define Brand Main color */
+/* *:active {
+  color: #00ff00;
+} */
+
+/* Set Background color & image pattern */
+/* section {
+  background: rgba(255, 56, 0, 0.01) url("https://i.postimg.cc/65wdRxzS/Pattern-opacity-100-over-255.png") repeat fixed
+    center;
+} */
+
+/* Hide Streamlit menu */
+#MainMenu {
+  visibility: hidden;
+}
+
+/* Hide Header */
+header {
+  visibility: hidden;
+}
+
+/* Hide Footer */
+footer {
+  visibility: hidden;
+}
